@@ -1,7 +1,5 @@
-Raviraj
-This is Shivani.
-i am working on git.
-Git works as Version control.
-New Work Here.
+I have stashed my branch named shivani and now i am going to commit changes here and the going back and commiting changesin branch shivani. 
 
-My change should not be affected.
+you will see thiese on GitHub itself.
+
+Thank you! 
